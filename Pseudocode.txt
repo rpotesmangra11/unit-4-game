@@ -1,0 +1,8 @@
+Crystals Collector
+===========================================
+
+1. Setup the game
+
+2. Take the users "click" input
+
+3. Reset the game

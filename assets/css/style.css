@@ -1,0 +1,37 @@
+body {
+background-color: lightsalmon;
+
+}
+.container {
+  width: 200px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+#crystalCount {
+    font-size: 40px;
+}
+
+h1{
+    margin-bottom: 100px;
+}
+div {
+    margin: 30px auto;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
